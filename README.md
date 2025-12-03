@@ -26,7 +26,6 @@ The layout combines a modern visual style, smooth animations, and an intuitive s
 - HTML5  
 - CSS3 / Sass  
 - JavaScript  
-- Gulp  
 
 ---
 
