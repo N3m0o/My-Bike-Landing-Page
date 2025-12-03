@@ -25,7 +25,10 @@ The layout combines a modern visual style, smooth animations, and an intuitive s
 ## 🛠️ Tech Stack
 - HTML5  
 - CSS3 / Sass  
-- JavaScript  
+- JavaScript
+- flexbox
+- grid
+- BEM
 
 ---
 
